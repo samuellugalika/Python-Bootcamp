@@ -9,7 +9,6 @@ def div(a,b):
       if b == 0:
             return "Erreur : Division par zero impossible"
       return a / b
-
 def calculatrice():
       print("Calculatrice basique!")
       num1 = float(input("Entrez un nombre : "))
@@ -25,8 +24,6 @@ def calculatrice():
       elif operation == "/" : 
             print("Resultat : ", div(num1,num2))
       else:
-            print("Opération invalide")
-            
+            print("Opération invalide")           
 calculatrice()
-
 #python_bootcamp_GDSC_UCB
