@@ -1,0 +1,5 @@
+Ouverture du fichier en mode lecture seule ('r' = read)
+Ouverture du fichier en mode ecriture seule : ecrase le fichier existant et garde le fichier modifie('w' = write)
+Ouverture du fichier en mode  ajout : permet de faire une ecriture a la fin du fichier ('a' = append)
+Ouverture du fichier en mode binaire ('b')
+Ouverture du fichier en mode texte ('t')
